@@ -22,8 +22,6 @@ ul, ol {
 
 /* Image styling */
 img {
-  width: 150px;
-  height: auto;
   border: 2px solid #ccc;
   margin-top: 10px;
 }
